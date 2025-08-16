@@ -1,0 +1,21 @@
+{
+  "tournament_name": "Dink-IT ",
+  "teams": {},
+  "groups": {
+    "A": [],
+    "B": [],
+    "C": [],
+    "D": [],
+    "E": [],
+    "F": [],
+    "G": [],
+    "H": []
+  },
+  "matches": {},
+  "ko_bracket": {
+    "QF": [],
+    "SF": [],
+    "F": []
+  },
+  "seed_rules": "8 groups; group winners auto-qualify to Quarterfinals (8 teams). Seeding by group performance: 1 vs 8, 4 vs 5, 3 vs 6, 2 vs 7."
+}
